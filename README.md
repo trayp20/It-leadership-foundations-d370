@@ -1,2 +1,2 @@
-# It-leadership-foundations-d370
-This project covers leadership strategies, effective communication, emotional intelligence, and team decision-making in IT. It involves reflecting on personal strengths, setting leadership goals, and analyzing team dynamics within a simulated work environment to achieve project objectives.
+# It-Leadership-Foundations-d370
+This project focuses on enhancing leadership, communication, and emotional intelligence skills for IT professionals. Through the CliftonStrengths assessment, self-reflection, and SMART goal creation, it explores influential leadership strategies and decision-making. Additionally, an implementation scenario requires analyzing a team meeting to assess communication methods, identify an informal leader, and understand team dynamics. The project culminates in a follow-up meeting plan to facilitate consensus, demonstrating skills in effective communication, conflict resolution, and collaborative decision-making.
